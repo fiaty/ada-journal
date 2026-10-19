@@ -1,1 +1,2 @@
 initialise le journal
+journal
